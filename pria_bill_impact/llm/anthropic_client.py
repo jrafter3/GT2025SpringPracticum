@@ -60,7 +60,7 @@ class ClaudeLLM:
                 max_tokens=1024,
                 messages=[{"role": "user", "content": prompt}]
             )
-            print(f"✅ LLM analysis completed in {time.time() - start_time:.2f} seconds.")
+            print(f"LLM analysis completed in {time.time() - start_time:.2f} seconds.")
             return response.content
 
         except Exception as e:
