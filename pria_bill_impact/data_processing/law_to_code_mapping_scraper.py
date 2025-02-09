@@ -97,7 +97,7 @@ def save_to_json(data, filename="public_law_to_us_code_mapping.json"):
         json.dump(data, f, indent=4)
     print(f"Saved Public Law → U.S. Code mappings to {filename}")
 
-# 🔥 Run the scraper and parser
+# Run the scraper and parser
 print("🔍 Scraping classification table...")
 table_text = scrape_classification_table(URL)
 
