@@ -1,0 +1,169 @@
+{
+    "119_s_5": {
+        "title": "Laken Riley Act",
+        "became_law": true,
+        "legal_modifications": [
+            {
+                "us_code_section": "8 U.S.C. 1226",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Expands mandatory detention requirements for certain aliens charged with theft or related offenses",
+                        "Provides state attorneys general with new legal standing to sue federal immigration authorities over release or parole of aliens",
+                        "Creates specific enforcement mechanisms for states to challenge federal immigration decisions",
+                        "Adds new provisions for detaining aliens charged with specific criminal offenses"
+                    ],
+                    "legal_impact": "Significantly increases federal detention requirements for immigrants charged with certain crimes and empowers state-level legal challenges to federal immigration enforcement discretion",
+                    "relevance_score": 90,
+                    "relevance_explanation": "Directly modifies immigration detention law, creating more stringent enforcement mechanisms with substantial implications for immigrant rights and state-federal immigration enforcement interactions",
+                    "before_and_after": {
+                        "before": "Previous law had more limited mandatory detention criteria and fewer state-level enforcement options",
+                        "after": "New law specifically mandates detention for aliens charged with theft, larceny, shoplifting, or assault, and allows state attorneys general to sue federal authorities over immigration enforcement decisions"
+                    }
+                }
+            },
+            {
+                "us_code_section": "8 U.S.C. 1225",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Mandatory detention of certain aliens charged with theft, burglary, larceny, shoplifting, or assault on law enforcement",
+                        "Expanded state attorneys general power to sue federal authorities over immigration enforcement",
+                        "Creation of mandatory federal detainer requirements for specified criminal offenses",
+                        "Narrowing of discretionary parole and release mechanisms for certain immigrants"
+                    ],
+                    "legal_impact": "Significantly restricts immigration enforcement discretion, allows state-level legal challenges to federal immigration decisions, and creates mandatory detention triggers for specific criminal charges",
+                    "relevance_score": 85,
+                    "relevance_explanation": "Directly modifies multiple sections of immigration law with substantial practical implications for enforcement and detention policies",
+                    "before_and_after": {
+                        "before": "Prior law allowed more discretionary approaches to immigrant detention and limited state-level legal interventions",
+                        "after": "Mandatory detention for specific criminal charges, expanded state legal standing to challenge federal immigration decisions, stricter enforcement mechanisms"
+                    }
+                }
+            },
+            {
+                "us_code_section": "8 U.S.C. 1253",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Expands mandatory detention requirements for aliens charged with theft, burglary, larceny, shoplifting, or assaulting a law enforcement officer",
+                        "Creates new legal standing for state attorneys general to sue federal agencies over immigration enforcement",
+                        "Requires Department of Homeland Security to issue detainers for aliens charged with specific offenses",
+                        "Allows state-level legal challenges if immigration policies are perceived to cause harm exceeding $100"
+                    ],
+                    "legal_impact": "Significantly increases detention powers and state-level legal mechanisms to challenge federal immigration enforcement, particularly targeting immigrants charged with certain crimes",
+                    "relevance_score": 90,
+                    "relevance_explanation": "Directly modifies multiple sections of immigration law with substantial enforcement implications, named after a specific criminal case (Laken Riley), and represents a targeted legislative response to perceived immigration enforcement gaps",
+                    "before_and_after": {
+                        "before": "Previous law had more limited mandatory detention criteria and fewer mechanisms for state-level legal intervention",
+                        "after": "Expanded detention mandates, new state attorney general lawsuit provisions, and more explicit requirements for federal immigration enforcement agencies"
+                    }
+                }
+            },
+            {
+                "us_code_section": "8 U.S.C. 1182",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Expands mandatory detention requirements for certain aliens charged with theft-related offenses",
+                        "Grants state attorneys general standing to sue federal agencies over immigration enforcement",
+                        "Allows state-level injunctive relief for immigration enforcement violations",
+                        "Modifies detention, parole, and visa processing procedures"
+                    ],
+                    "legal_impact": "Significantly increases state-level oversight and legal recourse in immigration enforcement, creates stricter detention mandates for aliens charged with specific criminal offenses",
+                    "relevance_score": 85,
+                    "relevance_explanation": "Substantial modification of immigration detention and enforcement procedures with direct implications for state and federal immigration policies",
+                    "before_and_after": {
+                        "before": "Previous immigration detention laws had more limited mandatory detention criteria and fewer provisions for state-level legal challenges",
+                        "after": "New law:        1. Requires mandatory detention for aliens charged with theft, burglary, larceny, shoplifting, or assault on law enforcement        2. Allows state attorneys general to sue federal agencies for perceived immigration enforcement failures        3. Establishes new legal mechanisms for states to challenge federal immigration decisions        4. Expands grounds for mandatory detention and creates new enforcement pathways"
+                    }
+                }
+            },
+            {
+                "us_code_section": "8 U.S.C. 1231",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Expands mandatory detention requirements for immigrants charged with theft, burglary, larceny, shoplifting, or assault on law enforcement",
+                        "Provides state attorneys general with new legal standing to sue federal immigration authorities for perceived violations of detention requirements",
+                        "Requires the Secretary of Homeland Security to issue detainers and take custody of aliens charged with specified offenses",
+                        "Allows state attorneys general to bring injunctive relief actions if they believe immigration enforcement is harming their state"
+                    ],
+                    "legal_impact": "Significantly increases federal detention requirements for immigrants, reduces discretionary release options, and empowers state-level legal challenges to federal immigration enforcement",
+                    "relevance_score": 85,
+                    "relevance_explanation": "Substantive changes to immigration detention law, named after a specific victim (Laken Riley), with broad implications for immigrant rights and state-federal immigration enforcement interactions",
+                    "before_and_after": {
+                        "before": "More limited mandatory detention criteria with fewer state enforcement mechanisms",
+                        "after": "Expanded mandatory detention for theft and related offenses, with new state-level legal intervention rights"
+                    }
+                }
+            },
+            {
+                "us_code_section": "8 U.S.C. 1252",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Mandates detention of aliens charged with theft or certain other offenses",
+                        "Allows state attorneys general to sue federal agencies for immigration enforcement failures",
+                        "Creates new legal standing for states to challenge federal immigration decisions",
+                        "Expands mandatory detention categories for certain criminal charges",
+                        "Introduces financial harm threshold ($100) for state legal challenges"
+                    ],
+                    "legal_impact": "Significantly increases state-level enforcement capabilities in immigration matters, creates more stringent detention requirements, and provides states with new legal mechanisms to challenge federal immigration decisions",
+                    "relevance_score": 85,
+                    "relevance_explanation": "Substantial modification of immigration detention and enforcement procedures with direct implications for state and federal immigration policy implementation",
+                    "before_and_after": {
+                        "before": "Limited state ability to challenge federal immigration enforcement decisions, narrower mandatory detention criteria",
+                        "after": "Expanded state legal standing, broader mandatory detention requirements for aliens charged with specific criminal offenses, new mechanisms for state-level immigration enforcement challenges"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "age_impact": {
+                "description": "Primarily affects working-age immigrants (18-45) charged with certain offenses, with stricter detention requirements",
+                "impact_score": 75
+            },
+            "geographic_impact": {
+                "description": "Higher impact in border states and areas with significant immigrant populations like California, Texas, Florida, New York",
+                "impact_score": 85
+            },
+            "marriage_impact": {
+                "description": "Increased risk for immigrant spouses, especially those with pending status or minor criminal charges",
+                "impact_score": 65
+            },
+            "children_impact": {
+                "description": "Potential family separation risks for households with immigrant parents facing theft/assault charges",
+                "impact_score": 70
+            },
+            "income_impact": {
+                "description": "Lower-income immigrant communities most vulnerable, especially those in precarious economic situations",
+                "impact_score": 80
+            },
+            "savings_impact": {
+                "description": "Potential legal costs and potential income loss from detention could significantly deplete savings",
+                "impact_score": 60
+            },
+            "financial_situation_impact": {
+                "description": "Highest risk for immigrants in 'Survival Mode', potentially triggering immediate economic instability",
+                "impact_score": 90
+            },
+            "other_impact": {
+                "description": "Enhanced state-level enforcement powers, allowing state AGs to challenge federal immigration decisions",
+                "impact_score": 75
+            }
+        }
+    }
+}
