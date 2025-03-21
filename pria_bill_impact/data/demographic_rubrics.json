@@ -1,0 +1,42 @@
+{
+    "score": "",
+    "Identity-Based Groups": {
+        "5": "Provides direct financial benefit or substantial new access to government programs, housing, healthcare, or income for this identity group (e.g., reparations, targeted tax credit, major service access expansion).",
+        "4": "Creates meaningful economic advantages or targeted protections against discrimination that unlock financial opportunity (e.g., minority small business grants, hiring incentives, expanded anti-bias enforcement tied to funding).",
+        "3": "Expands eligibility or removes barriers to government services, education access, or financial aid that previously excluded this group.",
+        "2": "Signals improved inclusion or visibility with moderate economic effect (e.g., recognition that leads to future benefit access, simplified documentation requirements).",
+        "1": "Minimal tangible benefit, such as improved language access or optional program participation. More symbolic than financial.",
+        "0": "Neutral to no specific mention or effect on identity-based group members.",
+        "-1": "Symbolic exclusion or weakening of protections, with negligible financial impact.",
+        "-2": "Creates mild new barriers (e.g., additional paperwork, limits eligibility in some narrow cases).",
+        "-3": "Reduces access to programs, funding, or rights for a specific identity group in a way that could limit financial security.",
+        "-4": "Substantial rollback of protections or removal from financial benefits/services for group members (e.g., ending coverage or excluding group from new benefits).",
+        "-5": "Actively imposes financial harm or criminalization targeting the group (e.g., fines, bans, loss of status, or categorical exclusion from key programs)."
+    },
+    "Income, Social Security & Retirement": {
+        "5": "Significant direct financial gain: New or expanded income streams (e.g., universal basic income), large annual tax credit increases, or major increases in Social Security benefits. Impacts may exceed $10,000/year or grow household wealth substantially.",
+        "4": "Strong financial gain: Substantial wage increases, new income tax deductions, expanded eligibility for public benefits, or forgiveness of certain types of debt (e.g. student loans or medical). Total value in the range of $3,000 to $10,000/year.",
+        "3": "Noticeable financial benefit: Moderate boost in take-home pay or savings (e.g. reduced payroll taxes, expanded retirement contributions), or one-time payments totaling around $1,000 to $3,000.",
+        "2": "Mild financial improvement: Small tax credits, cost-of-living adjustments to fixed benefits, or minor boosts to monthly income. Benefits valued around $300 to $1,000/year.",
+        "1": "Minimal financial improvement: Symbolic changes like increased program visibility or small deductions (<$300/year). Little practical impact but marginal gains possible.",
+        "0": "No measurable impact on income, savings, or retirement security for the individual.",
+        "-1": "Minor loss: Slight benefit cuts, new fees, or eligibility tightening with impacts under $300/year. Mostly symbolic or unlikely to affect financial behavior.",
+        "-2": "Mild financial harm: Reduced credits or deductions, retirement contribution caps, or smaller annual adjustments that may reduce available income by $300 to $1,000/year.",
+        "-3": "Noticeable financial burden: Cuts to benefits, loss of eligibility for tax credits or public programs, or new mandatory expenses. Potential impact of $1,000 to $3,000/year.",
+        "-4": "Significant financial harm: Elimination of key benefits, introduction of new taxes or fees, or disqualification from Social Security or retirement assistance. Potential impact of $3,000 to $10,000/year.",
+        "-5": "Severe financial loss: Complete removal of core benefits (e.g. Social Security, unemployment insurance), major new taxation, or depletion of household savings. Impacts may exceed $10,000/year or eliminate critical financial support."
+    },
+    "Health, Housing, and Employment": {
+        "5": "Major gain in security: new access to stable housing, guaranteed healthcare, or secure, well-paying employment. May include benefits worth $10,000+ annually, such as subsidized housing, full healthcare coverage, or long-term job guarantees. Significant direct financial gain: New or expanded income streams (e.g., universal basic income), large annual tax credit increases, or major increases in Social Security benefits. Impacts may exceed $10,000/year or grow household wealth substantially.",
+        "4": "Strong positive change: significant rental subsidies, Medicaid/ACA expansion, or public job creation. Worth $5,000 to $10,000/year in saved costs or added income. Strong financial gain: Substantial wage increases, new income tax deductions, expanded eligibility for public benefits, or forgiveness of certain types of debt (e.g. student loans or medical). Total value in the range of $3,000 to $10,000/year.",
+        "3": "Meaningful benefit: new renter protections, expanded eligibility for benefits, or increased minimum wage by a few dollars/hour. Equivalent to $2,000 to $5,000/year financial improvement. Noticeable financial benefit: Moderate boost in take-home pay or savings (e.g. reduced payroll taxes, expanded retirement contributions), or one-time payments totaling around $1,000 to $3,000.",
+        "2": "Moderate benefit: temporary rental assistance, increased healthcare subsidies, or local hiring incentives. Roughly $500 to $2,000/year in value or indirect support. Mild financial improvement: Small tax credits, cost-of-living adjustments to fixed benefits, or minor boosts to monthly income. Benefits valued around $300 to $1,000/year.",
+        "1": "Minor positive: small tax credits, slight improvements in eligibility, or local policy pilots. Value is limited, under $500/year. Minimal financial improvement: Symbolic changes like increased program visibility or small deductions (<$300/year). Little practical impact but marginal gains possible.",
+        "0": "No meaningful effect on individual housing, healthcare access, or employment status. Impacts may be systemic or indirect only.",
+        "-1": "Slight negative: introduces minor paperwork burdens, coverage limits, or weakens tenant protections. Limited financial harm (<$500/year). Minor loss: Slight benefit cuts, new fees, or eligibility tightening with impacts under $300/year. Mostly symbolic or unlikely to affect financial behavior.",
+        "-2": "Moderate harm: higher insurance premiums, reduced local workforce programs, or weakened job protections. Can cost $500 to $2,000/year. Mild financial harm: Reduced credits or deductions, retirement contribution caps, or smaller annual adjustments that may reduce available income by $300 to $1,000/year.",
+        "-3": "Serious harm: benefit cuts, eviction risks, or loss of healthcare access for specific groups. Up to $5,000/year in personal losses. Noticeable financial burden: Cuts to benefits, loss of eligibility for tax credits or public programs, or new mandatory expenses. Potential impact of $1,000 to $3,000/year.",
+        "-4": "Severe impact: removal of subsidies, job program eliminations, or forced relocation risk. Estimated losses of $5,000 to $10,000/year. Significant financial harm: Elimination of key benefits, introduction of new taxes or fees, or disqualification from Social Security or retirement assistance. Potential impact of $3,000 to $10,000/year.",
+        "-5": "Catastrophic individual loss: job loss, loss of housing, or complete removal of healthcare access. Could mean $10,000+ in annual impact, and severe threat to basic needs. Severe financial loss: Complete removal of core benefits (e.g. Social Security, unemployment insurance), major new taxation, or depletion of household savings. Impacts may exceed $10,000/year or eliminate critical financial support."
+    }
+}
