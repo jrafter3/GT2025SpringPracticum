@@ -1,0 +1,4942 @@
+{
+  "117_hr_1711": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 3
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 3
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 2
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_10001": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 4
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 4
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 4
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 3
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 5
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 5
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 5
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 5
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 5
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 5
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 3
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 3
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 3
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 3
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_1046": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": -2
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": -2
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": -2
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": -2
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 4
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": -3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": -2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": -1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": -2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 1
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 2
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 1
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 1
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 2
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 4
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 3
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 3
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 2
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 3
+    }
+  ],
+  "118_hr_1606": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 4
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 4
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 2
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 4
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 5
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 2
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_1661": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 3
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 4
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_1783": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 5
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_2676": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 4
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 3
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 2
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": -3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_2727": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 4
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 5
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_8194": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 2
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 3
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 4
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 2
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 2
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 2
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 4
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "119_hr_1618": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 4
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 2
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 5
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 5
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 4
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 4
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9881": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 3
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 4
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 5
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 1
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 3
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 4
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 4
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 2
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 2
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 2
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 3
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 3
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 4
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 1
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 1
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 2
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 4
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 4
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 2
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 2
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 4
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 4
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 4
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 5
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 5
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 3
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 3
+    }
+  ],
+  "118_hr_9890": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 4
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 3
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 3
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 4
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 3
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 2
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 3
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 5
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 4
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 3
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 4
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 2
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 3
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 3
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 2
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 3
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 5
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 3
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 3
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 2
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 3
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 2
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 1
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 2
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 2
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 2
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 3
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 3
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 3
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 2
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 2
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 2
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 3
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 2
+    }
+  ],
+  "118_hr_9904": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": -4
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": -4
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": -3
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9930": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 3
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 3
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9935": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 1
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 1
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 1
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 1
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 1
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 2
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 1
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9937": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": -2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": -2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": -2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": -4
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 2
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9946": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 3
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 2
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 3
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 3
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 3
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 2
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9956": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": -4
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 0
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": -3
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": -3
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": -3
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 0
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": -4
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": -5
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": -5
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": -4
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9958": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 1
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 1
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 0
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 0
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 1
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 2
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 1
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 1
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 1
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 1
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ],
+  "118_hr_9993": [
+    {
+      "category": "Race",
+      "subcategory": "White",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Black or African American",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "American Indian or Alaska Native",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Asian",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Native Hawaiian or Other Pacific Islander",
+      "score": 1
+    },
+    {
+      "category": "Race",
+      "subcategory": "Two or More Races",
+      "score": 1
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Hispanic or Latino",
+      "score": 1
+    },
+    {
+      "category": "Ethnicity",
+      "subcategory": "Not Hispanic or Latino",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "0-12 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "13-17 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "18-24 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "25-34 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "35-44 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "45-54 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "55-64 years old",
+      "score": 2
+    },
+    {
+      "category": "Age",
+      "subcategory": "65-74 years old",
+      "score": 1
+    },
+    {
+      "category": "Age",
+      "subcategory": "75+ years old",
+      "score": 1
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Male",
+      "score": 1
+    },
+    {
+      "category": "Sex",
+      "subcategory": "Female",
+      "score": 1
+    },
+    {
+      "category": "Income",
+      "subcategory": "Low-Income",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "Middle-Class",
+      "score": 2
+    },
+    {
+      "category": "Income",
+      "subcategory": "High-Income",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Private Sector",
+      "score": 2
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Government Workers",
+      "score": 0
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Self-Employed",
+      "score": 1
+    },
+    {
+      "category": "Employment",
+      "subcategory": "Unemployed",
+      "score": 1
+    },
+    {
+      "category": "Health",
+      "subcategory": "Private Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Public Health Insurance",
+      "score": 0
+    },
+    {
+      "category": "Health",
+      "subcategory": "Uninsured",
+      "score": 0
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeowners",
+      "score": 1
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Renters",
+      "score": 1
+    },
+    {
+      "category": "Housing",
+      "subcategory": "Homeless",
+      "score": 1
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Retirees",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Disability Benefits",
+      "score": 0
+    },
+    {
+      "category": "Social Security & Retirement",
+      "subcategory": "Survivors & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "K-12 Students",
+      "score": 1
+    },
+    {
+      "category": "Education",
+      "subcategory": "Higher Education",
+      "score": 1
+    },
+    {
+      "category": "Education",
+      "subcategory": "Student Loan Borrowers",
+      "score": 0
+    },
+    {
+      "category": "Education",
+      "subcategory": "Educators & School Staff",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Active Duty Military",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Veterans",
+      "score": 0
+    },
+    {
+      "category": "Veterans & Military Service",
+      "subcategory": "Military Spouses & Dependents",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "U.S. Citizens",
+      "score": 1
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Legal Permanent Residents (Green Card Holders)",
+      "score": 1
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Temporary Visa Holders",
+      "score": 0
+    },
+    {
+      "category": "Immigration & Citizenship",
+      "subcategory": "Undocumented Individuals",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Formerly Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Currently Incarcerated",
+      "score": 0
+    },
+    {
+      "category": "Criminal Justice & Incarceration",
+      "subcategory": "Law Enforcement & First Responders",
+      "score": 0
+    }
+  ]
+}
