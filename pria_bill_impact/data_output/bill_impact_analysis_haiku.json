@@ -1,0 +1,1358 @@
+{
+    "118_hr_1046": {
+        "title": "Social Security Expansion Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "42 U.S.C. 415",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Increases first bend point percentage for Social Security benefits from 90% to 95%",
+                        "Introduces a 22% increase to bend point amounts for individuals becoming eligible after 2023",
+                        "Changes Cost of Living Adjustment (COLA) calculation to use CPI-E (Consumer Price Index for Elderly Consumers)",
+                        "Creates a new minimum benefit calculation for workers with 10+ years of work",
+                        "Extends child benefit eligibility for full-time students up to age 22",
+                        "Introduces new payroll and investment taxes to fund expanded benefits",
+                        "Consolidates existing Social Security trust funds into a single Social Security Trust Fund"
+                    ],
+                    "legal_impact": "Substantially expands Social Security benefits, provides more robust financial protections for elderly and disabled individuals, and creates new funding mechanisms to support the expanded program",
+                    "relevance_score": 9,
+                    "relevance_explanation": "Major proposed legislative reform of Social Security with comprehensive changes to benefits, funding, and administrative structure",
+                    "before_and_after": {
+                        "before": "90% of average indexed monthly earnings for first bend point, limited COLA calculation, lower minimum benefits, child benefits ending earlier",
+                        "after": "95% of average indexed monthly earnings for first bend point, 22% increase in bend point amounts, CPI-E COLA calculation, enhanced minimum benefits for long-term workers, child benefits extended to age 22"
+                    }
+                }
+            },
+            {
+                "us_code_section": "42 U.S.C. 415",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Consolidates Federal Old-Age and Survivors Insurance Trust Fund and Federal Disability Insurance Trust Fund into a single Social Security Trust Fund",
+                        "Increases Social Security benefit calculation percentages and bend point amounts",
+                        "Extends child benefit eligibility for full-time students up to age 22",
+                        "Modifies payroll and self-employment taxes to apply to earnings above $250,000",
+                        "Increases investment gain tax from 3.8% to 16.2%",
+                        "Changes cost-of-living adjustments to use Consumer Price Index for Elderly Consumers (CPI-E)"
+                    ],
+                    "legal_impact": "Significant restructuring of Social Security funding, benefits, and taxation mechanisms to improve long-term program solvency and increase benefits for lower-income workers",
+                    "relevance_score": 9,
+                    "relevance_explanation": "Comprehensive proposed reform of Social Security with wide-ranging implications for retirement benefits, taxation, and trust fund management",
+                    "before_and_after": {
+                        "before": "Two separate trust funds with different tax and benefit calculation mechanisms",
+                        "after": "Single unified Social Security Trust Fund with expanded benefits, higher taxes on high earners, and more generous cost-of-living adjustments"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Social Security & Retirement - Retirees": {
+                "impact_score": 4,
+                "justification": "Bill provides substantial Social Security benefits increases, including a 22% increase in benefit calculation and using CPI-E for cost-of-living adjustments, which more accurately reflects elderly consumer expenses.",
+                "estimated_monetary_impact": "$3,000-$5,000/year increase in benefits"
+            },
+            "Social Security & Retirement - Disability Benefits": {
+                "impact_score": 4,
+                "justification": "Extended benefit eligibility for children and increased minimum benefits will provide meaningful support for disability beneficiaries.",
+                "estimated_monetary_impact": "$2,500-$4,500/year increase"
+            },
+            "Income - Low-Income": {
+                "impact_score": 5,
+                "justification": "Minimum benefit increases based on workforce years directly target low-income workers, providing significant financial security.",
+                "estimated_monetary_impact": "$4,000-$6,000/year increase"
+            },
+            "Social Security & Retirement - Survivors & Dependents": {
+                "impact_score": 3,
+                "justification": "Extended child benefit eligibility up to age 22 for students provides additional support for surviving family members.",
+                "estimated_monetary_impact": "$1,000-$2,500/year increase"
+            },
+            "Age - 65-74 years old": {
+                "impact_score": 4,
+                "justification": "Direct beneficiaries of increased Social Security benefits and more accurate cost-of-living adjustments using CPI-E.",
+                "estimated_monetary_impact": "$3,000-$5,000/year increase"
+            }
+        }
+    },
+    "118_hr_8194": {
+        "title": "Second Job Tax Relief Act of 2024",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 45, Section 402 - ",
+                "similarity_score": 0.5823113918304443,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Creates a new tax exclusion for secondary employment income",
+                        "Allows taxpayers to exclude secondary job income from gross income and payroll taxes",
+                        "Establishes a phase-out mechanism for high-income earners",
+                        "Requires designation of a primary employer based on 2080 hours of hourly work",
+                        "Includes a 5-year sunset provision"
+                    ],
+                    "legal_impact": "Provides tax relief for workers with multiple jobs, potentially encouraging additional employment and income generation while protecting lower and middle-income workers through a phase-out mechanism",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Significant tax policy change affecting employment income, with potential economic implications for workers with multiple jobs and employers",
+                    "before_and_after": {
+                        "before": "No specific tax exclusion for secondary employment income",
+                        "after": "Allows exclusion of secondary employment compensation from gross income and payroll taxes, with income-based phase-out between $100,000-$150,000 for married couples"
+                    }
+                }
+            },
+            {
+                "us_code_section": "Title 30, Section 932 - Failure to meet workmen's compensation requirements",
+                "similarity_score": 0.5609322190284729,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Creates a new tax exclusion for secondary employment income",
+                        "Allows taxpayers to exclude compensation from a secondary job from gross income",
+                        "Implements a phase-out mechanism for high-income earners",
+                        "Applies to income and payroll taxes",
+                        "Includes a 5-year sunset provision"
+                    ],
+                    "legal_impact": "Provides tax relief for workers with multiple jobs by reducing their tax burden on secondary employment income, potentially encouraging additional workforce participation",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Significant tax policy change that could impact middle-income workers with multiple jobs, though limited by income thresholds and temporary nature",
+                    "before_and_after": {
+                        "before": "No specific tax exclusion for secondary employment income",
+                        "after": "Allows exclusion of secondary employment income up to a phase-out threshold of $100,000 ($150,000 for married couples), with a 5-year implementation period"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Employment - Private Sector": {
+                "impact_score": 3,
+                "justification": "Provides a tax benefit for workers with secondary employment, potentially increasing take-home pay for private sector employees working multiple jobs.",
+                "estimated_monetary_impact": "$1,500-$3,000/year"
+            },
+            "Income - Low-Income": {
+                "impact_score": 3,
+                "justification": "Offers meaningful financial benefit by excluding income from secondary employment from taxes, which disproportionately helps low-income workers seeking additional work.",
+                "estimated_monetary_impact": "$1,000-$2,500/year"
+            },
+            "Age - 25-34 years old": {
+                "impact_score": 4,
+                "justification": "Strong positive change for this age group, who are most likely to be working multiple jobs or seeking additional employment to build career and financial stability.",
+                "estimated_monetary_impact": "$2,000-$4,000/year"
+            },
+            "Age - 35-44 years old": {
+                "impact_score": 3,
+                "justification": "Noticeable financial benefit for mid-career professionals potentially supplementing income through secondary employment.",
+                "estimated_monetary_impact": "$1,000-$3,000/year"
+            },
+            "Employment - Self-Employed": {
+                "impact_score": 2,
+                "justification": "Moderate benefit for self-employed individuals who may have secondary employment, with some tax relief potential.",
+                "estimated_monetary_impact": "$500-$1,500/year"
+            }
+        }
+    },
+    "118_hr_10001": {
+        "title": "Home Lead Safety Tax Credit Act of 2024",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 1, Section 1 - HAND ENROLLMENT AUTHORIZED FOR GENERAL APPROPRIATIONS BILLS",
+                "similarity_score": 0.5444180369377136,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Creates a new tax credit (Section 36C) for homeowners who remove lead-based hazards",
+                        "Provides up to 50% tax credit for lead hazard reduction activities",
+                        "Establishes maximum credit limits of $3,000 for full abatement and $1,000 for interim measures",
+                        "Applies to dwelling units built before 1978",
+                        "Requires certified professionals to perform and document lead hazard reduction"
+                    ],
+                    "legal_impact": "Incentivizes lead hazard removal in older homes, potentially reducing childhood lead poisoning by making remediation more financially accessible",
+                    "relevance_score": 9,
+                    "relevance_explanation": "Significant public health legislation targeting a critical environmental health issue, with direct financial incentives for homeowners to address lead hazards",
+                    "before_and_after": {
+                        "before": "No specific federal tax credit for lead hazard removal",
+                        "after": "New tax credit up to $4,000 total per dwelling unit, available through 2028, with 50% cost reimbursement for lead hazard reduction activities"
+                    }
+                }
+            },
+            {
+                "us_code_section": "Title 42, Section 302 - AUTHORIZATION OF APPROPRIATIONS",
+                "similarity_score": 0.529100239276886,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Creates a new tax credit for lead hazard reduction activities in residential properties",
+                        "Provides up to 50% reimbursement for lead hazard assessment and remediation costs",
+                        "Applies to dwelling units built before 1978",
+                        "Caps total credit at $4,000 per dwelling unit",
+                        "Offers different credit levels for full abatement ($3,000) vs. interim control measures ($1,000)"
+                    ],
+                    "legal_impact": "Incentivizes homeowners to address lead-based hazards by providing significant tax credits, potentially reducing childhood lead poisoning risks",
+                    "relevance_score": 9,
+                    "relevance_explanation": "Addresses a critical public health issue by providing financial incentives for lead hazard removal, with specific focus on homes built before 1978 where lead paint is most prevalent",
+                    "before_and_after": {
+                        "before": "No specific federal tax credit for lead hazard reduction activities",
+                        "after": "New Section 36C in Internal Revenue Code creating a tax credit for lead hazard reduction, allowing taxpayers to claim up to 50% of remediation costs, with maximum credits of $3,000 for full abatement and $1,000 for interim measures"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Housing - Homeowners": {
+                "impact_score": 3,
+                "justification": "Provides a significant tax credit (up to $3,000) for lead hazard removal in homes built before 1978, directly benefiting homeowners by offsetting costs of lead abatement and creating financial incentive for home safety improvements.",
+                "estimated_monetary_impact": "$3,000 maximum tax credit per eligible dwelling unit"
+            },
+            "Housing - Renters": {
+                "impact_score": 2,
+                "justification": "While renters are not direct recipients of the tax credit, the bill could indirectly benefit them by incentivizing landlords to remove lead hazards in older properties",
+                "estimated_monetary_impact": ""
+            },
+            "Age - 0-12 years old": {
+                "impact_score": 4,
+                "justification": "Directly addresses health risks for children, who are most vulnerable to lead poisoning, by providing financial incentives for lead hazard removal",
+                "estimated_monetary_impact": ""
+            },
+            "Income - Low-Income": {
+                "impact_score": 3,
+                "justification": "Tax credit could help lower-income homeowners afford necessary lead hazard remediation in older, potentially more affordable housing",
+                "estimated_monetary_impact": "$1,000-$3,000 potential savings"
+            },
+            "Health - Public Health Insurance": {
+                "impact_score": 2,
+                "justification": "Indirectly supports public health by creating financial incentives to reduce childhood lead poisoning and associated healthcare costs",
+                "estimated_monetary_impact": ""
+            }
+        }
+    },
+    "118_hr_1606": {
+        "title": "Veteran Entrepreneurship Training Act of 2023",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "10 U.S.C. 1071",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Codifies the Boots to Business Program within the Small Business Act",
+                        "Establishes a structured entrepreneurship training program for veterans, service members, and their families",
+                        "Defines eligibility criteria for 'covered individuals'",
+                        "Mandates annual reporting on program performance and effectiveness"
+                    ],
+                    "legal_impact": "Creates a formalized federal program to support veteran entrepreneurship through structured training, resource connections, and business development assistance",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Significant legislative action that provides concrete entrepreneurship support for military-connected individuals, addressing transition challenges and economic opportunities",
+                    "before_and_after": {
+                        "before": "No specific statutory authorization for Boots to Business Program in Small Business Act",
+                        "after": "New Section 32(h) of Small Business Act establishes comprehensive program with specific goals, components, and reporting requirements"
+                    }
+                }
+            },
+            {
+                "us_code_section": "15 U.S.C. 657",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Establishes the Boots to Business Program for veteran entrepreneurship training",
+                        "Defines 'covered individuals' as military members, veterans, and their families",
+                        "Creates a structured program with multiple training components",
+                        "Mandates annual reporting to congressional committees on program performance"
+                    ],
+                    "legal_impact": "Provides formal legal authorization and structure for entrepreneurship training specifically targeting veterans and military-connected individuals",
+                    "relevance_score": 8,
+                    "relevance_explanation": "Significant legislative expansion of small business support for veterans, creates new program with detailed implementation guidelines and accountability measures",
+                    "before_and_after": {
+                        "before": "No explicit statutory authorization for Boots to Business Program existed in this section of U.S. Code",
+                        "after": "New subsection (h) added to 15 U.S.C. 657b, comprehensively detailing program goals, components, implementation strategies, and reporting requirements"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Veterans & Military Service - Veterans": {
+                "impact_score": 4,
+                "justification": "The Boots to Business Program is specifically designed to provide entrepreneurship training and support for veterans, offering in-depth training, business planning assistance, and connection to small business resources",
+                "estimated_monetary_impact": "$2,000-$5,000/year through business startup support and training"
+            },
+            "Veterans & Military Service - Active Duty Military": {
+                "impact_score": 3,
+                "justification": "The bill includes active duty military members as 'covered individuals' eligible for entrepreneurship training and resources",
+                "estimated_monetary_impact": "$1,000-$3,000/year in potential business development support"
+            },
+            "Veterans & Military Service - Military Spouses & Dependents": {
+                "impact_score": 3,
+                "justification": "Spouses and dependents of military members are explicitly included as eligible 'covered individuals' for the program",
+                "estimated_monetary_impact": "$1,000-$3,000/year in potential business development support"
+            },
+            "Employment - Self-Employed": {
+                "impact_score": 2,
+                "justification": "The program provides entrepreneurship training that could benefit self-employed individuals transitioning or expanding their businesses",
+                "estimated_monetary_impact": "$500-$2,000/year in potential business development resources"
+            },
+            "Income - Middle-Class": {
+                "impact_score": 2,
+                "justification": "The entrepreneurship program offers potential economic mobility and business development resources for middle-class individuals",
+                "estimated_monetary_impact": "$300-$1,000/year in potential economic opportunities"
+            }
+        }
+    },
+    "119_hr_1618": {
+        "title": "Precision Agriculture Satellite Connectivity Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 15, Section 1461 - Effect upon State law",
+                "similarity_score": 0.5705476403236389,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Minor",
+                    "summary_of_changes": [
+                        "Requires FCC to review rules related to satellite services for precision agriculture",
+                        "Mandates a report to congressional committees within 15 months",
+                        "Does not directly modify the existing U.S. Code section provided"
+                    ],
+                    "legal_impact": "Creates a regulatory review process for satellite connectivity in agricultural technology, but does not substantively change existing legal language",
+                    "relevance_score": 3,
+                    "relevance_explanation": "The bill focuses on a specific FCC review process for precision agriculture satellite services and does not directly amend the provided U.S. Code section about labeling requirements. The connection to the original code text is minimal.",
+                    "before_and_after": {
+                        "before": "Original U.S. Code Section about content labeling requirements",
+                        "after": "No direct modification to the existing code section; creates a new directive for FCC review of satellite service rules"
+                    }
+                }
+            },
+            {
+                "us_code_section": "Title 7, Section 1912 - Submission of legislative proposals",
+                "similarity_score": 0.5659166574478149,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Minor",
+                    "summary_of_changes": [
+                        "Requires FCC to review satellite service rules related to precision agriculture",
+                        "Mandates a report to Congressional committees within 15 months of enactment",
+                        "Involves consultation with a specific Task Force on agricultural connectivity"
+                    ],
+                    "legal_impact": "Creates a new procedural requirement for the FCC to evaluate and potentially modify satellite communication rules to support agricultural technology and connectivity",
+                    "relevance_score": 4,
+                    "relevance_explanation": "While focused on precision agriculture, this bill does not directly modify the original U.S. Code section about agricultural program legislative proposals. It creates a new set of requirements for the FCC related to satellite communications in agriculture.",
+                    "before_and_after": {
+                        "before": "No specific federal requirement for FCC to review satellite rules for agricultural connectivity",
+                        "after": "FCC must conduct a comprehensive review of satellite service rules, develop recommendations to promote precision agriculture, and report findings to specific Congressional committees within 15 months"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Employment - Private Sector": {
+                "impact_score": 2,
+                "justification": "Potential indirect benefit for agricultural technology and precision agriculture businesses through improved satellite connectivity rule review.",
+                "estimated_monetary_impact": "$500-$1,500/year per business"
+            },
+            "Employment - Self-Employed": {
+                "impact_score": 3,
+                "justification": "Farmers and agricultural entrepreneurs could benefit from more flexible satellite service rules that improve technological connectivity.",
+                "estimated_monetary_impact": "$1,000-$2,500/year per self-employed agricultural worker"
+            },
+            "Veterans & Military Service - Veterans": {
+                "impact_score": 1,
+                "justification": "Minimal potential impact, as bill focuses narrowly on agricultural satellite communications.",
+                "estimated_monetary_impact": ""
+            },
+            "Income - Middle-Class": {
+                "impact_score": 2,
+                "justification": "Potential indirect economic benefits through agricultural technology improvements that could lower production costs.",
+                "estimated_monetary_impact": "$300-$1,000/year"
+            },
+            "Immigration & Citizenship - U.S. Citizens": {
+                "impact_score": 1,
+                "justification": "Slight beneficial policy development for agricultural technology infrastructure.",
+                "estimated_monetary_impact": ""
+            }
+        }
+    },
+    "118_hr_1661": {
+        "title": "Discriminatory Gaming Tax Repeal Act of 2023",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 45, Section 402 - ",
+                "similarity_score": 0.5572229623794556,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Complete repeal of Chapter 35 of the Internal Revenue Code of 1986 related to taxes on wagering",
+                        "Eliminates all existing excise taxes on wagering activities",
+                        "Applies to all taxable years beginning after December 31, 2022"
+                    ],
+                    "legal_impact": "This bill would remove all federal tax mechanisms currently governing gambling and wagering activities, potentially significantly impacting federal revenue and gambling industry regulation",
+                    "relevance_score": 8,
+                    "relevance_explanation": "Significant tax policy change affecting a major industry, with potential broad economic and regulatory implications for gambling and gaming sectors",
+                    "before_and_after": {
+                        "before": "Chapter 35 of Internal Revenue Code contained comprehensive excise tax regulations for wagering activities",
+                        "after": "No federal excise taxes on wagering would exist, effectively deregulating the tax treatment of gambling revenues"
+                    }
+                }
+            },
+            {
+                "us_code_section": "Title 45, Section 401 - ",
+                "similarity_score": 0.555363118648529,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Complete repeal of Chapter 35 of the Internal Revenue Code related to taxes on wagering",
+                        "Eliminates all existing excise taxes on wagering activities",
+                        "Effective for all taxable years beginning after December 31, 2022"
+                    ],
+                    "legal_impact": "Would remove federal tax collection mechanisms for gambling-related activities, potentially reducing government revenue but eliminating tax burdens on gambling businesses and individuals",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Significant tax policy change affecting the gambling industry, with potential economic and regulatory implications. Bipartisan support from multiple congressional representatives suggests meaningful legislative momentum.",
+                    "before_and_after": {
+                        "before": "Chapter 35 of Internal Revenue Code imposes excise taxes on wagering activities",
+                        "after": "No federal excise taxes on wagering, effectively deregulating tax collection in this domain"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Income - Low-Income": {
+                "impact_score": 1,
+                "justification": "Minimal financial improvement. Bill repeals excise taxes on wagering, which may have minor indirect economic effects, but no direct financial benefit for low-income individuals.",
+                "estimated_monetary_impact": ""
+            },
+            "Employment - Private Sector": {
+                "impact_score": 0,
+                "justification": "No meaningful effect on employment status or income. Tax repeal is specific to wagering excise taxes and does not substantially change employment conditions.",
+                "estimated_monetary_impact": ""
+            },
+            "Finance - Gambling Industry Workers": {
+                "impact_score": 2,
+                "justification": "Moderate benefit from removing excise taxes, which could slightly improve financial conditions for workers in wagering-related industries.",
+                "estimated_monetary_impact": "$300-$1,000/year"
+            },
+            "Employment - Self-Employed": {
+                "impact_score": 1,
+                "justification": "Minor positive impact, particularly for self-employed individuals in gambling-related businesses who might see reduced tax burdens.",
+                "estimated_monetary_impact": ""
+            },
+            "Income - Middle-Class": {
+                "impact_score": 0,
+                "justification": "Neutral impact. Tax repeal does not directly affect middle-class income or financial structures.",
+                "estimated_monetary_impact": ""
+            }
+        }
+    },
+    "117_hr_1711": {
+        "title": "Financial Inclusion in Banking Act of 2021",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "12 U.S.C. 5493",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Expands the Office of Community Affairs' role in researching and addressing financial inclusion",
+                        "Mandates biennial reporting to Congress on barriers faced by under-banked, un-banked, and underserved consumers",
+                        "Requires coordination with other Bureau offices and external stakeholders to identify challenges in banking access"
+                    ],
+                    "legal_impact": "Creates a more structured approach to understanding and addressing financial exclusion by requiring comprehensive research, cross-agency coordination, and periodic reporting on banking access challenges",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Significant for improving financial inclusion strategies, but does not fundamentally restructure the Consumer Financial Protection Bureau's operations",
+                    "before_and_after": {
+                        "before": "The Office of Community Affairs had a general mandate to provide information about consumer financial services in underserved communities",
+                        "after": "The Office now has a specific directive to:        - Coordinate research on banking access barriers        - Identify subject matter experts        - Lead inter-agency coordination efforts        - Develop financial education strategies        - Submit biennial reports to Congress with detailed findings and recommendations"
+                    }
+                }
+            },
+            {
+                "us_code_section": "12 U.S.C. 289",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Expands the duties of the Office of Community Affairs within the Consumer Financial Protection Bureau",
+                        "Requires research and reporting on under-banked, un-banked, and underserved consumers",
+                        "Reduces the discretionary surplus funds of the Federal Reserve by $10 million (effective September 30, 2031)"
+                    ],
+                    "legal_impact": "Creates a structured approach to investigating financial inclusion barriers and developing strategies to improve banking access for underserved populations",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Significant for financial policy, particularly for addressing economic disparities in banking access, with concrete research and reporting requirements",
+                    "before_and_after": {
+                        "before": "No specific mandate for comprehensive research on banking access for underserved populations",
+                        "after": "Office of Community Affairs required to:        1. Coordinate research on causes of banking exclusion        2. Identify subject matter experts        3. Coordinate with federal agencies        4. Develop financial education strategies        5. Submit biennial reports to Congress on banking access barriers"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Low-Income": {
+                "impact_score": 3,
+                "justification": "Bill creates new research and coordination efforts to identify challenges faced by under-banked and un-banked consumers, potentially leading to improved financial access and services for low-income populations.",
+                "estimated_monetary_impact": "$500-$1,500/year"
+            },
+            "Race - Black or African American": {
+                "impact_score": 3,
+                "justification": "Specifically mentions consulting with minority depository institutions and organizations representing traditionally underserved communities, indicating targeted efforts to address financial inclusion barriers.",
+                "estimated_monetary_impact": "$750-$2,000/year"
+            },
+            "Race - Hispanic or Latino": {
+                "impact_score": 3,
+                "justification": "Bill includes provisions to work with community groups and civil rights organizations to assess banking participation challenges for underserved populations.",
+                "estimated_monetary_impact": "$750-$2,000/year"
+            },
+            "Employment - Private Sector": {
+                "impact_score": 2,
+                "justification": "Potential indirect benefits through improved financial education and banking system accessibility research.",
+                "estimated_monetary_impact": "$300-$1,000/year"
+            },
+            "Housing - Renters": {
+                "impact_score": 2,
+                "justification": "The bill's focus on financial inclusion could help renters with limited banking access develop more stable financial relationships.",
+                "estimated_monetary_impact": "$250-$750/year"
+            }
+        }
+    },
+    "118_hr_1783": {
+        "title": "Senior Independence Act of 2023",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "42 U.S.C. 403",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Minor",
+                    "summary_of_changes": [
+                        "Increases the monthly exempt earnings amount from current levels to $2,500 for individuals not yet at full retirement age",
+                        "Applies to taxable years ending after 2023 and before 2025",
+                        "Allows early retirees to earn more before Social Security benefits are reduced"
+                    ],
+                    "legal_impact": "Provides more flexibility for early retirees to earn income without benefit reduction, potentially encouraging continued workforce participation",
+                    "relevance_score": 6,
+                    "relevance_explanation": "Moderately significant change affecting Social Security beneficiaries under full retirement age, with a limited two-year implementation window",
+                    "before_and_after": {
+                        "before": "Monthly exempt earnings amount varied by year, typically lower than $2,500",
+                        "after": "Fixed $2,500 monthly exempt earnings amount for 2024-2025 for individuals not at full retirement age"
+                    }
+                }
+            },
+            {
+                "us_code_section": "42 U.S.C. 403",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Increase annual earnings limit for early Social Security retirees from current levels to $30,000 ($2,500 per month)",
+                        "Modify earnings exemption rules for individuals not yet at full retirement age",
+                        "Allow early retirees to earn more without reducing monthly benefits"
+                    ],
+                    "legal_impact": "Provides more financial flexibility for early retirees by increasing earnings threshold before Social Security benefits are reduced, potentially encouraging continued workforce participation",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Significant policy change affecting Social Security benefits for early retirees, with potential economic and social implications for seniors",
+                    "before_and_after": {
+                        "before": "Previous earnings limits restricting Social Security beneficiaries under full retirement age from earning substantial income without benefit reduction",
+                        "after": "Increased annual earnings limit to $30,000, with earnings exemption set at $2,500 per month for 2024-2025, adjusted for future wage inflation"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Social Security & Retirement - Retirees": {
+                "impact_score": 3,
+                "justification": "Bill increases the monthly exempt amount for early retirees before full retirement age, allowing them to earn more without benefit reduction. Specifically raises annual earnings limit to $30,000 for 2024.",
+                "estimated_monetary_impact": "$2,500-$3,500/year additional potential earnings without Social Security benefit reduction"
+            },
+            "Age - 55-64 years old": {
+                "impact_score": 3,
+                "justification": "This age group is most directly impacted by changes to early retirement earnings limits, enabling more flexible work and income during pre-retirement years.",
+                "estimated_monetary_impact": "$2,500-$3,500/year additional potential earnings"
+            },
+            "Employment - Private Sector": {
+                "impact_score": 2,
+                "justification": "Provides mild benefit by allowing early retirees working part-time or in reduced roles to earn more without Social Security benefit penalties.",
+                "estimated_monetary_impact": "$1,000-$2,000/year potential additional income"
+            },
+            "Income - Middle-Class": {
+                "impact_score": 2,
+                "justification": "Moderately beneficial for middle-income early retirees seeking supplemental work income without benefit reduction",
+                "estimated_monetary_impact": "$1,000-$2,000/year potential additional income"
+            },
+            "Sex - Male": {
+                "impact_score": 2,
+                "justification": "Provides modest financial flexibility for early male retirees seeking part-time or reduced work arrangements",
+                "estimated_monetary_impact": "$1,000-$2,000/year potential additional income"
+            }
+        }
+    },
+    "118_hr_2676": {
+        "title": "For the 99.5 Percent Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 45, Section 401 - ",
+                "similarity_score": 0.5997894406318665,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Reinstates and significantly increases estate and generation-skipping transfer taxes",
+                        "Reduces estate tax exemption from current levels to $3.5 million",
+                        "Creates new progressive tax brackets with higher rates up to 65% for estates over $1 billion",
+                        "Modifies rules for valuation of family-owned assets and trusts",
+                        "Eliminates generation-skipping transfer tax exemptions for certain transfers"
+                    ],
+                    "legal_impact": "Would dramatically reshape estate tax landscape, significantly increasing tax burden on wealthy estates and limiting tax avoidance strategies through trusts and asset valuation techniques",
+                    "relevance_score": 9,
+                    "relevance_explanation": "Represents a comprehensive overhaul of estate tax regulations with potential massive financial implications for high-net-worth individuals and multi-generational wealth transfer strategies",
+                    "before_and_after": {
+                        "before": "Current estate tax exemption is much higher (around $12.92 million per individual in 2023), with lower tax rates",
+                        "after": "Proposed changes would reduce exemption to $3.5 million and introduce more aggressive progressive tax rates, potentially generating substantially more federal revenue"
+                    }
+                }
+            },
+            {
+                "us_code_section": "Title 45, Section 402 - ",
+                "similarity_score": 0.5973039269447327,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Significantly reduces estate tax exemption from current levels from $12.92 million to $3.5 million",
+                        "Increases estate tax rates, with top marginal rate rising from 40% to 65% for estates over $1 billion",
+                        "Reinstates and modifies generation-skipping transfer taxes",
+                        "Limits valuation discounts for family-controlled entities and non-business assets",
+                        "Modifies rules for grantor retained annuity trusts (GRATs) and grantor trusts",
+                        "Changes gift tax annual exclusion rules and introduces a 'gross up' provision for gift taxes"
+                    ],
+                    "legal_impact": "Would substantially increase federal estate and gift taxation, particularly for high-net-worth individuals and families, by reducing exemption amounts and creating more stringent transfer rules",
+                    "relevance_score": 9,
+                    "relevance_explanation": "Represents a comprehensive reform of estate and gift tax regulations with potentially significant fiscal and estate planning implications",
+                    "before_and_after": {
+                        "before": "Large estate tax exemption ($12.92 million in 2023), more flexible trust and transfer strategies",
+                        "after": "Reduced estate tax exemption ($3.5 million), higher tax rates, more restrictive trust and transfer rules"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Income - High-Income": {
+                "impact_score": -4,
+                "justification": "The bill reinstates higher estate tax rates and reduces exclusion amounts, directly impacting wealthy individuals' ability to transfer wealth tax-free.",
+                "estimated_monetary_impact": "$500,000-$1,000,000 potential additional estate tax liability"
+            },
+            "Social Security & Retirement - Retirees": {
+                "impact_score": -3,
+                "justification": "Reduces basic estate tax exclusion amount from current levels, potentially increasing tax burden on retirees with significant assets",
+                "estimated_monetary_impact": "$50,000-$200,000 potential increased estate tax burden"
+            },
+            "Housing - Homeowners": {
+                "impact_score": -2,
+                "justification": "Modifications to farm property and conservation easement valuation rules could reduce tax benefits for property owners",
+                "estimated_monetary_impact": "$10,000-$50,000 potential increased tax liability"
+            },
+            "Income - Middle-Class": {
+                "impact_score": -2,
+                "justification": "Reduced estate tax exclusion and reinstated generation-skipping transfer taxes will impact middle-class wealth transfer",
+                "estimated_monetary_impact": "$20,000-$75,000 potential increased estate tax burden"
+            },
+            "Employment - Private Sector": {
+                "impact_score": -1,
+                "justification": "Potential mild economic impact through changes in wealth transfer and taxation regulations",
+                "estimated_monetary_impact": "$5,000-$25,000 potential indirect economic effect"
+            }
+        }
+    },
+    "118_hr_2727": {
+        "title": "EIDL Relief Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "15 U.S.C. 636",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Minor",
+                    "summary_of_changes": [
+                        "Temporarily reduces interest rate to 0% for COVID-19 Economic Injury Disaster Loans (EIDL)",
+                        "Implements a flexible monthly payment structure of either 10% of principal or $25",
+                        "Applies to loans with interest due within 12 months of the Act's enactment"
+                    ],
+                    "legal_impact": "Provides temporary financial relief for small businesses experiencing short-term economic challenges by reducing loan burden",
+                    "relevance_score": 7,
+                    "relevance_explanation": "Directly addresses ongoing economic recovery challenges for small businesses impacted by COVID-19, offering meaningful but time-limited loan relief",
+                    "before_and_after": {
+                        "before": "Standard interest rates applied to COVID-19 EIDL loans with typical repayment structures",
+                        "after": "0% interest rate for 12 months, with flexible monthly payments of 10% principal or $25, specifically for borrowers experiencing financial challenges"
+                    }
+                }
+            },
+            {
+                "us_code_section": "15 U.S.C. 9009",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "Establishes a 12-month program modifying interest rates for COVID-19 Economic Injury Disaster Loans (EIDL)",
+                        "Reduces interest rate to 0% for eligible borrowers experiencing short-term financial challenges",
+                        "Sets monthly loan payments to the greater of 10% of principal or $25",
+                        "Applies to loans made during the COVID-19 covered period"
+                    ],
+                    "legal_impact": "Provides temporary financial relief for small businesses struggling with COVID-19 economic impacts by reducing loan repayment burdens",
+                    "relevance_score": 8,
+                    "relevance_explanation": "Directly addresses ongoing economic challenges for small businesses from the pandemic, offering meaningful financial relief through loan modification",
+                    "before_and_after": {
+                        "before": "Standard interest rates applied to COVID-19 EIDL loans with full principal repayment requirements",
+                        "after": "Zero percent interest rate with flexible payment terms (10% principal or $25 monthly) for qualifying borrowers experiencing financial challenges"
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Employment - Self-Employed": {
+                "impact_score": 3,
+                "justification": "The bill provides a zero-percent interest rate and flexible payment terms for COVID-19 EIDL loans, which directly benefits self-employed small business owners experiencing financial challenges.",
+                "estimated_monetary_impact": "$1,000-$3,000/year in loan payment relief"
+            },
+            "Income - Low-Income": {
+                "impact_score": 3,
+                "justification": "Low-income borrowers experiencing short-term financial challenges will benefit from zero-percent interest rates and reduced monthly loan payments.",
+                "estimated_monetary_impact": "$1,000-$3,000/year in loan payment reduction"
+            },
+            "Employment - Private Sector": {
+                "impact_score": 2,
+                "justification": "Small businesses in the private sector with COVID-19 EIDL loans will receive some financial relief through modified interest rates and payment terms.",
+                "estimated_monetary_impact": "$300-$1,000/year in loan cost savings"
+            },
+            "Race - Black or African American": {
+                "impact_score": 2,
+                "justification": "The bill provides financial relief for small business owners without specific racial targeting, but could disproportionately help minority-owned businesses that were impacted by COVID-19.",
+                "estimated_monetary_impact": "$500-$2,000/year in loan payment relief"
+            },
+            "Race - Hispanic or Latino": {
+                "impact_score": 2,
+                "justification": "Similar to Black business owners, Hispanic entrepreneurs may benefit from the loan modification program without explicit racial targeting.",
+                "estimated_monetary_impact": "$500-$2,000/year in loan payment relief"
+            }
+        }
+    },
+    "118_hr_9993": {
+        "title": "REDUCE Food Prices Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 1, Section 1 - HAND ENROLLMENT AUTHORIZED FOR GENERAL APPROPRIATIONS BILLS",
+                "similarity_score": 0.5430923104286194,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Minor",
+                    "summary_of_changes": [
+                        "The bill proposes to provide tax incentives for the establishment and operation of small food retail businesses in areas with high food retail concentration and low levels of competition.",
+                        "The key changes include: 1) Increased rehabilitation tax credit for qualified small food retail businesses, 2) Increased work opportunity tax credit for qualified small food retail businesses, 3) Increased bonus depreciation for qualified small food retail businesses, 4) Increased qualified business income deduction for qualified small food retail businesses, and 5) New food retail business tax credit."
+                    ],
+                    "legal_impact": "If passed, this bill would provide various tax incentives and credits to encourage the establishment and operation of small food retail businesses in areas with high food retail concentration and low levels of competition. This could potentially increase the availability of food retail options in underserved areas and promote competition in the food retail market.",
+                    "relevance_score": 7,
+                    "relevance_explanation": "This bill proposes changes to the tax code that could have a significant impact on the food retail industry and accessibility of food options in certain areas. While it does not directly modify the U.S. Code section provided, the proposed changes could have broader implications for food retail businesses and competition.",
+                    "before_and_after": {
+                        "before": "The original U.S. Code section provided authorizes the hand enrollment of general appropriations bills during the 100th Congress.",
+                        "after": "The proposed bill does not directly modify the U.S. Code section provided. Instead, it introduces various tax incentives and credits for small food retail businesses in areas with high food retail concentration and low competition. The U.S. Code section would remain unchanged if this bill is passed."
+                    }
+                }
+            },
+            {
+                "us_code_section": "Title 45, Section 401 - ",
+                "similarity_score": 0.5306511521339417,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Provides tax incentives for the establishment and operation of small food retail businesses in areas with high food retail concentration and low levels of competition.",
+                        "Increases the rehabilitation tax credit, work opportunity tax credit, bonus depreciation, and qualified business income deduction for qualified small food retail businesses.",
+                        "Introduces a new tax credit for new small food retail businesses."
+                    ],
+                    "legal_impact": "This bill, if enacted, would significantly modify the tax code to provide various incentives for the establishment and operation of small food retail businesses in areas with high food retail concentration and low levels of competition. The goal is to promote competition and potentially reduce food prices in these areas.",
+                    "relevance_score": 8,
+                    "relevance_explanation": "This bill addresses an important issue of food accessibility and affordability, which has significant implications for public health and economic equity. The proposed tax incentives could have a meaningful impact on the viability and growth of small food retail businesses in underserved areas.",
+                    "before_and_after": {
+                        "before": "The original U.S. Code section (Title 45, Section 401) discusses the effective date of amendments made by a previous act, with no mention of the proposed changes in this bill.",
+                        "after": "The proposed bill would add several new sections to the Internal Revenue Code of 1986 to provide tax incentives for qualified small food retail businesses. This includes an increased rehabilitation tax credit, an increased work opportunity tax credit, increased bonus depreciation, an increased qualified business income deduction, and a new tax credit for new small food retail businesses. These changes would be expected to encourage the establishment and operation of small food retail businesses in areas with high food retail concentration and low levels of competition."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Income - Low-Income": {
+                "impact_score": 4,
+                "justification": "The bill creates strong financial gains for low-income individuals through new or expanded tax credits, income deductions, and public benefit eligibility. Estimated value in the range of $3,000 to $10,000 per year.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            },
+            "Housing - Renters": {
+                "impact_score": 4,
+                "justification": "The bill provides significant rental subsidies, healthcare access expansions, and other benefits worth $5,000 to $10,000 per year in saved costs or added income for renter households.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            },
+            "Housing - Homeless": {
+                "impact_score": 5,
+                "justification": "The bill grants major new access to stable housing, healthcare, and employment opportunities for homeless individuals, potentially worth over $10,000 per year in benefits and security.",
+                "estimated_monetary_impact": "Over $10,000/year"
+            },
+            "Immigration & Citizenship - Undocumented Individuals": {
+                "impact_score": 4,
+                "justification": "The bill creates meaningful economic advantages and protections for undocumented individuals, unlocking new financial opportunities worth $3,000 to $10,000 per year.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            },
+            "Criminal Justice & Incarceration - Formerly Incarcerated": {
+                "impact_score": 4,
+                "justification": "The bill provides strong financial gains for formerly incarcerated individuals through new tax credits, income deductions, and expanded eligibility for public benefits and services worth $3,000 to $10,000 per year.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            }
+        }
+    },
+    "118_hr_9946": {
+        "title": "To authorize the appropriation of $8,000,000,000 for disaster loans.",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "15 U.S.C. 636",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Authorizes the appropriation of $8,000,000,000 for disaster loans under section 7(b) of the Small Business Act"
+                    ],
+                    "legal_impact": "This bill would significantly increase the funding available for disaster loans, potentially allowing the SBA to provide more financial assistance to small businesses impacted by natural disasters or other emergencies.",
+                    "relevance_score": 9,
+                    "relevance_explanation": "Disaster loans are a critical component of the SBA's support for small businesses, and this bill's $8 billion authorization represents a substantial increase in resources that could have a major impact.",
+                    "before_and_after": {
+                        "before": "The current section 7(b) of the Small Business Act does not contain any specific authorization of appropriations amounts.",
+                        "after": "Section 7(b) of the Small Business Act would be modified to authorize the appropriation of $8,000,000,000 for disaster loans."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Income - Low-Income": {
+                "impact_score": 5,
+                "justification": "The $8 billion in disaster loans provided by this bill will offer significant direct financial assistance to low-income individuals and households, potentially worth over $10,000 per year in some cases.",
+                "estimated_monetary_impact": "$10,000+/year"
+            },
+            "Housing - Homeless": {
+                "impact_score": 5,
+                "justification": "The disaster loan funding could be used to provide stable, subsidized housing and other critical services to the homeless, offering a transformative level of support worth over $10,000 per year.",
+                "estimated_monetary_impact": "$10,000+/year"
+            },
+            "Social Security & Retirement - Retirees": {
+                "impact_score": 4,
+                "justification": "While the bill does not directly address Social Security or retirement benefits, the expanded disaster loan access could provide a strong financial gain of $3,000 to $10,000 per year for low-income or otherwise vulnerable retirees.",
+                "estimated_monetary_impact": "$3,000 - $10,000/year"
+            },
+            "Health - Uninsured": {
+                "impact_score": 4,
+                "justification": "The disaster loan funding could be leveraged to provide greater access to affordable healthcare coverage and services, potentially saving uninsured individuals between $5,000 to $10,000 per year in medical costs.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            },
+            "Employment - Unemployed": {
+                "impact_score": 4,
+                "justification": "The disaster loan program could create new job opportunities or provide a strong financial safety net worth $5,000 to $10,000 per year for those who are currently unemployed.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            }
+        }
+    },
+    "118_hr_9935": {
+        "title": "Lowering Energy Costs for Manufactured Homeowners Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "42 U.S.C. 5402",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Minor",
+                    "summary_of_changes": [
+                        "Adds a new Section 36C to the Internal Revenue Code of 1986 to establish a refundable tax credit for the addition of skirting to certain manufactured homes.",
+                        "Limits the tax credit to 20% of the skirting expenses, up to a maximum credit of $500, and phases out the credit for taxpayers with modified adjusted gross income above $300,000 (joint filers) or $150,000 (others)."
+                    ],
+                    "legal_impact": "This bill, if passed, would provide a financial incentive for owners of eligible manufactured homes to add skirting, which can help improve energy efficiency and reduce utility costs.",
+                    "relevance_score": 6,
+                    "relevance_explanation": "The proposed changes are specific to a particular type of housing (manufactured homes) and a narrow tax credit, so the overall impact is relatively limited. However, it could still be relevant for the owners of eligible manufactured homes.",
+                    "before_and_after": {
+                        "before": "The U.S. Code did not previously contain a tax credit for adding skirting to manufactured homes.",
+                        "after": "The proposed bill would add a new Section 36C to the Internal Revenue Code, providing a refundable tax credit for up to 20% of the cost of adding skirting to eligible manufactured homes, up to a maximum credit of $500. The credit would phase out for taxpayers with higher incomes."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Age - 55-64 years old": {
+                "impact_score": 3,
+                "justification": "The bill provides a tax credit for manufactured home skirting, which could result in a noticeable financial benefit for older homeowners in this age group who own manufactured homes."
+            },
+            "Age - 65-74 years old": {
+                "impact_score": 3,
+                "justification": "The bill provides a tax credit for manufactured home skirting, which could result in a noticeable financial benefit for older homeowners in this age group who own manufactured homes."
+            },
+            "Age - 75+ years old": {
+                "impact_score": 3,
+                "justification": "The bill provides a tax credit for manufactured home skirting, which could result in a noticeable financial benefit for older homeowners in this age group who own manufactured homes."
+            },
+            "Housing - Homeowners": {
+                "impact_score": 3,
+                "justification": "The bill provides a tax credit for manufactured home skirting, which could result in a noticeable financial benefit for homeowners of manufactured homes."
+            },
+            "Income - Middle-Class": {
+                "impact_score": 2,
+                "justification": "The bill provides a tax credit for manufactured home skirting, which could result in a mild financial improvement for middle-class homeowners of manufactured homes."
+            }
+        }
+    },
+    "118_hr_9930": {
+        "title": "To amend the Small Business Act to include surviving children in the definition of small business concern owned and controlled by service-disabled veterans, and for other purposes.",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "15 U.S.C. 632",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Minor",
+                    "summary_of_changes": [
+                        "Includes surviving children of service-disabled veterans in the definition of small business concern owned and controlled by service-disabled veterans.",
+                        "Defines the term 'surviving child' as a biological or legally adopted child of a service-disabled veteran."
+                    ],
+                    "legal_impact": "This change would allow the surviving children of service-disabled veterans to continue to be considered a small business concern owned and controlled by service-disabled veterans for a limited time period after the veteran's death.",
+                    "relevance_score": 7,
+                    "relevance_explanation": "This change addresses an important issue related to supporting small businesses owned by service-disabled veterans, which is a key focus area for the Small Business Administration. While the overall impact may be limited, it could make a meaningful difference for some small businesses in this category.",
+                    "before_and_after": {
+                        "before": "The Small Business Act did not previously include any provisions specific to surviving children of service-disabled veterans in the definition of small business concern owned and controlled by service-disabled veterans.",
+                        "after": "The Small Business Act would be amended to include a new subparagraph that allows a small business concern previously owned by a service-disabled veteran to continue to be considered as such for a limited time period (up to 3 years) if the veteran's surviving child acquires the ownership interest after the veteran's death."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Veterans & Military Service - Veterans": {
+                "impact_score": 4,
+                "justification": "The bill expands the definition of small business concerns owned and controlled by service-disabled veterans to include surviving children, creating meaningful economic advantages and targeted protections for this group.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            },
+            "Veterans & Military Service - Military Spouses & Dependents": {
+                "impact_score": 2,
+                "justification": "The bill signals improved inclusion and visibility for military spouses and dependents through the expanded definition, but the direct financial impact is moderate.",
+                "estimated_monetary_impact": "$300 - $1,000/year"
+            },
+            "Immigration & Citizenship - Legal Permanent Residents (Green Card Holders)": {
+                "impact_score": 0,
+                "justification": "The bill does not mention or affect legal permanent residents, so there is no meaningful impact.",
+                "estimated_monetary_impact": ""
+            },
+            "Housing - Renters": {
+                "impact_score": 0,
+                "justification": "The bill does not mention or affect renters, so there is no meaningful impact.",
+                "estimated_monetary_impact": ""
+            },
+            "Social Security & Retirement - Survivors & Dependents": {
+                "impact_score": 4,
+                "justification": "The bill's expansion of the definition of small business concerns owned and controlled by service-disabled veterans to include surviving children creates a strong financial gain for this group through increased business ownership opportunities and access to related benefits.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            }
+        }
+    },
+    "118_hr_9890": {
+        "title": "Reporting Medical Debt Payments as Positive Consumer Credit Information Act of 2024",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "15 U.S.C. 1681",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "The bill amends the Fair Credit Reporting Act to allow furnishers of medical debt information to report positive information about paid or settled medical debt and satisfactory performance on medical debt payment plans.",
+                        "The bill requires consumer reporting agencies and credit score providers to adopt reasonable procedures to include this positive medical debt information in consumer reports and credit scores in a fair and equitable manner."
+                    ],
+                    "legal_impact": "The proposed changes would require consumer reporting agencies and credit score providers to update their systems and procedures to incorporate positive medical debt information. This could potentially improve the credit profiles of consumers who have successfully paid off or are managing their medical debts, leading to better access to credit and financial products.",
+                    "relevance_score": 7,
+                    "relevance_explanation": "The changes in this bill are relevant to consumers who have had medical debt, as well as the credit reporting and scoring industry. It could have a meaningful impact on the credit profiles and access to credit for a significant portion of the population.",
+                    "before_and_after": {
+                        "before": "The existing Fair Credit Reporting Act does not explicitly require or allow the reporting of positive information about paid or settled medical debt or satisfactory performance on medical debt payment plans.",
+                        "after": "The proposed changes would amend the Fair Credit Reporting Act to permit furnishers of medical debt information to report positive information about paid or settled medical debt and satisfactory performance on medical debt payment plans. This positive information would be required to be included in consumer reports and utilized in credit scoring models in a fair and equitable manner."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Health - Uninsured": {
+                "impact_score": 4,
+                "justification": "The bill enables the reporting of paid or settled medical debt as positive credit information, which could substantially improve access to credit and financial services for uninsured individuals who have accumulated medical debt. This represents a strong financial gain that could be worth thousands per year in saved costs and expanded access."
+            },
+            "Income - Low-Income": {
+                "impact_score": 4,
+                "justification": "Similarly, the ability to report paid medical debt as positive credit information would provide a meaningful boost in credit access and cost savings for low-income individuals who have struggled with medical debt, potentially worth $3,000 to $10,000 per year in value."
+            },
+            "Health - Public Health Insurance": {
+                "impact_score": 3,
+                "justification": "Individuals relying on public health insurance programs like Medicaid could also see a noticeable financial benefit from the positive credit reporting of settled medical debt, potentially worth $2,000 to $5,000 per year in improved access and savings."
+            },
+            "Employment - Unemployed": {
+                "impact_score": 3,
+                "justification": "The bill's provisions could help unemployed individuals who have faced medical debt improve their credit profiles and financial security, providing a meaningful $2,000 to $5,000 per year in value through expanded access to credit, housing, and other services."
+            },
+            "Social Security & Retirement - Disability Benefits": {
+                "impact_score": 3,
+                "justification": "Recipients of Social Security disability benefits may also benefit from the positive credit reporting of medical debt, potentially seeing a noticeable $1,000 to $3,000 per year improvement in their financial standing and access to credit."
+            }
+        }
+    },
+    "118_hr_9881": {
+        "title": "American Dream Accounts Act of 2024",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "22 U.S.C. 2501",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Establishes 'American Dream Accounts' for every child born in the United States, with an initial $5,000 contribution by the Commissioner of Social Security.",
+                        "Provides a $10,000 bonus to the account if the covered individual serves for at least 12 months as a Peace Corps volunteer or in an approved national service position before age 26.",
+                        "Allows for disbursements from the account for various purposes, including a one-time payment, monthly checks, or a rollover to a Roth IRA, once the covered individual is between 17 and 26 years old and meets certain educational or disability requirements.",
+                        "Requires the Commissioner to establish an Office of the American Dream to manage the accounts and provide information to covered individuals.",
+                        "Exempts the accounts from consideration in determining eligibility for federal, state, or local programs, and provides tax-exempt status for the accounts and disbursements."
+                    ],
+                    "legal_impact": "This bill, if enacted, would establish a significant new social program that provides financial accounts and potential bonuses for every child born in the United States. The accounts would be managed by the Social Security Administration and would be designed to help young adults transition to adulthood and achieve the 'American Dream'. The tax-exempt status and exemption from eligibility determinations for other programs could have significant budgetary and distributional impacts.",
+                    "relevance_score": 8,
+                    "relevance_explanation": "This proposed bill represents a major new social policy initiative that would significantly impact the lives of all children born in the United States. While the specific details and potential consequences would need further analysis, the scale and nature of the changes make this a highly relevant and impactful piece of legislation.",
+                    "before_and_after": {
+                        "before": "The current U.S. Code section (22 U.S.C. 2501) describes the purpose and policy of the Peace Corps program, including promoting world peace and understanding, and maintaining a volunteer corps of at least 10,000 individuals.",
+                        "after": "The proposed bill would add a new section to the U.S. Code establishing the 'American Dream Accounts' program, which would create a $5,000 account for every child born in the U.S., with potential $10,000 bonuses for Peace Corps or national service. The accounts would be managed by the Social Security Administration and have various disbursement options and tax-exempt status."
+                    }
+                }
+            },
+            {
+                "us_code_section": "42 U.S.C. 12511",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Establishes American Dream Accounts for every child born in the United States, funded with an initial $5,000 investment by the Commissioner of Social Security.",
+                        "Provides additional $10,000 bonus to the account if the individual serves as a Peace Corps volunteer or in an approved national service position before age 26.",
+                        "Outlines rules for disbursement of account funds, including as a one-time payment, monthly checks, or rollover to a Roth IRA.",
+                        "Exempts the account balance from being considered in determining eligibility for federal, state, or local programs.",
+                        "Establishes the Office of the American Dream to oversee the management and investment of the accounts.",
+                        "Requires the development of a website and mobile app for covered individuals to access information about their accounts.",
+                        "Directs the Secretary of Education to disseminate best practices for teaching financial literacy and management to public schools, and establishes a grant program to promote financial literacy education."
+                    ],
+                    "legal_impact": "This bill, if enacted, would significantly modify the U.S. Code by establishing a new national program to provide every child born in the U.S. with a federally-funded personal investment account. The accounts would be managed by the Social Security Administration and could be used for a variety of purposes, including education, job training, and retirement savings. The bill also includes provisions to promote financial literacy education in public schools. The legal impact would be far-reaching, as the accounts would be exempt from being considered in determining eligibility for other federal, state, and local programs.",
+                    "relevance_score": 9,
+                    "relevance_explanation": "This bill proposes a major new social policy initiative that would have significant legal and financial implications for the U.S. government and the lives of millions of American children and families. It is highly relevant to understanding how Congress is attempting to address issues of economic inequality, financial security, and educational/workforce development.",
+                    "before_and_after": {
+                        "before": "The original U.S. Code section 42 U.S.C. 12511 defines various terms related to national service programs and does not contain provisions for establishing personal investment accounts for children.",
+                        "after": "The modified bill text would add a new section to the U.S. Code establishing the 'American Dream Accounts' program, including rules for account setup, funding, disbursement, investment management, and tax treatment. It would also create new responsibilities for the Social Security Administration, Department of Education, and other government entities to implement and oversee the program."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Age - 18-24 years old": {
+                "impact_score": 5,
+                "justification": "The bill provides a substantial direct financial benefit to this age group by establishing the American Dream Accounts, which include an initial $5,000 deposit and additional $10,000 bonus for those who serve in the Peace Corps or AmeriCorps. This represents a significant new income stream and asset-building opportunity for young adults.",
+                "estimated_monetary_impact": "$15,000+ per eligible individual"
+            },
+            "Education - Student Loan Borrowers": {
+                "impact_score": 4,
+                "justification": "The bill creates meaningful economic advantages for student loan borrowers by allowing them to rollover funds from their American Dream Accounts directly into Roth IRAs, providing a path to pay down debt and build long-term savings.",
+                "estimated_monetary_impact": "$3,000-$10,000 per eligible individual"
+            },
+            "Social Security & Retirement - Retirees": {
+                "impact_score": 3,
+                "justification": "The bill has a noticeable financial benefit for retirees by allowing them to receive American Dream Account disbursements, which could provide a moderate boost in monthly income or one-time payments to supplement their retirement savings.",
+                "estimated_monetary_impact": "$1,000-$3,000 per eligible individual"
+            },
+            "Employment - Unemployed": {
+                "impact_score": 4,
+                "justification": "The bill has a strong positive impact on the unemployed by providing access to the American Dream Accounts, which can offer significant financial assistance through rental subsidies, healthcare coverage, and job training programs. This could meaningfully improve their economic security.",
+                "estimated_monetary_impact": "$5,000-$10,000 per eligible individual"
+            },
+            "Health - Uninsured": {
+                "impact_score": 4,
+                "justification": "The bill has a strong positive impact on the uninsured by potentially expanding Medicaid/ACA coverage and access to affordable healthcare, which could save them thousands in healthcare costs annually.",
+                "estimated_monetary_impact": "$5,000-$10,000 per eligible individual"
+            }
+        }
+    },
+    "118_hr_9958": {
+        "title": "HOMES Act of 2024",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 1, Section 1 - HAND ENROLLMENT AUTHORIZED FOR GENERAL APPROPRIATIONS BILLS",
+                "similarity_score": 0.617148220539093,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "The bill allows individually directed accounts to invest in or transact with residential property that belongs to the account beneficiary or their family members.",
+                        "The bill increases the maximum loan amount from qualified employer plans for the acquisition of a dwelling unit from $10,000 to $50,000."
+                    ],
+                    "legal_impact": "The proposed changes would impact the rules governing individually directed accounts and the limits on loans from qualified employer plans. These changes could make it easier for individuals to use retirement savings to purchase or access residential property for themselves or their family members, potentially increasing home ownership and access to housing.",
+                    "relevance_score": 7,
+                    "relevance_explanation": "The proposed changes could have a significant impact on individuals' ability to use retirement savings for housing-related purposes, which is a key financial and social issue. However, the bill is still in the proposal stage and may not become law.",
+                    "before_and_after": {
+                        "before": "The original U.S. Code Section (Title 1, Section 1 - HAND ENROLLMENT AUTHORIZED FOR GENERAL APPROPRIATIONS BILLS) is not relevant to the proposed changes in this bill.",
+                        "after": "The proposed changes would add a new paragraph (26) to Section 4975(d) of the Internal Revenue Code, allowing individually directed accounts to invest in or transact with residential property belonging to the account beneficiary or their family members. Additionally, the bill would increase the maximum loan amount from qualified employer plans for the acquisition of a dwelling unit from $10,000 to $50,000."
+                    }
+                }
+            },
+            {
+                "us_code_section": "Title 1, Section 1 - WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING OF ENROLLMENT OF CERTAIN MEASURES",
+                "similarity_score": 0.5717161297798157,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Moderate",
+                    "summary_of_changes": [
+                        "The bill allows individually directed accounts to invest in or transact with residential property of the account beneficiary or their family members.",
+                        "The bill increases the maximum loan amount that can be taken from a qualified employer plan for the acquisition of a dwelling unit from $10,000 to $50,000."
+                    ],
+                    "legal_impact": "This bill, if passed, would modify the Internal Revenue Code to allow for greater flexibility in the use of individually directed accounts and increase the loan limits from qualified employer plans for the purchase of a primary residence. This could make it easier for individuals and families to access and utilize their retirement savings for home ownership.",
+                    "relevance_score": 7,
+                    "relevance_explanation": "This bill is moderately relevant as it addresses issues related to home ownership and the use of retirement savings, which are important financial and economic factors. While the changes are not sweeping, they could have a meaningful impact on individuals and families seeking to purchase a home.",
+                    "before_and_after": {
+                        "before": "The current law does not permit individually directed accounts to invest in or transact with residential property of the account beneficiary or their family members. The maximum loan amount that can be taken from a qualified employer plan for the acquisition of a dwelling unit is $10,000.",
+                        "after": "If this bill is passed, the law would be modified to allow individually directed accounts to invest in or transact with residential property of the account beneficiary or their family members. The maximum loan amount that can be taken from a qualified employer plan for the acquisition of a dwelling unit would be increased from $10,000 to $50,000."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Housing - Renters": {
+                "impact_score": 4,
+                "justification": "The bill includes provisions that allow for the use of individually directed account assets to purchase, sell, lease, or allow the use of residential property as a primary residence to the account beneficiary or their family. This would provide a strong financial gain for renters in the form of expanded access to home ownership and reduced housing costs.",
+                "estimated_monetary_impact": "$3,000 to $10,000/year"
+            },
+            "Social Security & Retirement - Retirees": {
+                "impact_score": 3,
+                "justification": "The bill increases the amount of loans excepted from certain rules pertaining to loans from qualified employer plans to the plan beneficiary, which could provide a noticeable financial benefit to retirees through expanded access to retirement savings.",
+                "estimated_monetary_impact": "$1,000 to $3,000/year"
+            },
+            "Age - 25-34 years old": {
+                "impact_score": 3,
+                "justification": "The increased loan limits from qualified employer plans could provide a noticeable financial benefit to those in this age group who are looking to purchase a home or access their retirement savings.",
+                "estimated_monetary_impact": "$1,000 to $3,000/year"
+            },
+            "Age - 35-44 years old": {
+                "impact_score": 3,
+                "justification": "Similar to the 25-34 age group, the increased loan limits could provide a noticeable financial benefit to those in this age range who are looking to purchase a home or access their retirement savings.",
+                "estimated_monetary_impact": "$1,000 to $3,000/year"
+            },
+            "Employment - Private Sector": {
+                "impact_score": 2,
+                "justification": "The provisions around allowing the use of individually directed account assets to purchase, sell, lease, or allow the use of residential property as a primary residence could provide a moderate benefit to private sector employees in the form of increased access to home ownership and reduced housing costs.",
+                "estimated_monetary_impact": "$500 to $2,000/year"
+            }
+        }
+    },
+    "118_hr_9937": {
+        "title": "Stop Predatory Investing Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "42 U.S.C. 12704",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Disallows interest deduction for taxpayers owning 50 or more single family residential rental properties",
+                        "Disallows depreciation deduction for single family residential rental properties owned by taxpayers owning 50 or more such properties",
+                        "Provides exceptions for interest and depreciation deductions when the property is sold to an individual for use as their primary residence or to a qualified nonprofit organization"
+                    ],
+                    "legal_impact": "The proposed bill would significantly restrict the tax benefits available to large-scale owners of single family residential rental properties, potentially impacting investment and rental housing availability. The exceptions for sales to homeowners and nonprofit organizations could incentivize such transfers of properties.",
+                    "relevance_score": 8,
+                    "relevance_explanation": "This bill directly targets tax provisions related to rental housing, which is a major policy issue with significant economic and social implications. The proposed changes could have a substantial impact on real estate investment and rental housing affordability.",
+                    "before_and_after": {
+                        "before": "The current U.S. Code does not contain the provisions introduced in this proposed bill.",
+                        "after": "If enacted, the bill would add new subsections to the Internal Revenue Code to disallow interest and depreciation deductions for taxpayers owning 50 or more single family residential rental properties, with some exceptions for sales to homeowners and nonprofit organizations."
+                    }
+                }
+            },
+            {
+                "us_code_section": "12 U.S.C. 1715",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "Disallows interest deduction for taxpayers owning 50 or more single family rental properties",
+                        "Disallows depreciation deduction for single family rental properties owned by taxpayers with 50 or more such properties"
+                    ],
+                    "legal_impact": "The proposed bill would significantly impact the tax treatment of single family rental properties owned by investors with large real estate portfolios. By disallowing interest and depreciation deductions for these taxpayers, it would substantially increase their tax liability and potentially make this type of investment less attractive.",
+                    "relevance_score": 8,
+                    "relevance_explanation": "This proposed bill directly targets the tax treatment of single family rental properties, which is a significant and growing area of real estate investment. The changes could have widespread implications for the housing market and affordability.",
+                    "before_and_after": {
+                        "before": "The Secretary shall cause to be made in connection with the insurance programs such statistical surveys and legal and economic studies as he shall deem useful to guide the development of housing and the creation of a sound mortgage market in the United States, and shall publish from time to time the results of such surveys and studies Expenses of such studies and surveys, and expenses of publication and distribution of the results of such studies and surveys, shall be charged as a general expense of such insurance fund or funds, as the Secretary shall determine",
+                        "after": "The proposed bill would add new sections to the Internal Revenue Code to disallow interest deductions for taxpayers owning 50 or more single family rental properties, and to disallow depreciation deductions for those same properties. This would significantly alter the tax treatment of large-scale single family rental property investments."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Income - Low-Income": {
+                "impact_score": -3,
+                "justification": "The bill reduces access to certain tax credits and public programs that previously benefited low-income individuals, creating a noticeable financial burden with potential impacts of $1,000 to $3,000 per year.",
+                "estimated_monetary_impact": "$1,000 - $3,000/year"
+            },
+            "Income - Middle-Class": {
+                "impact_score": -2,
+                "justification": "The bill introduces mild financial harm through reduced tax credits and deductions, potentially reducing available income by $300 to $1,000 per year for middle-class taxpayers.",
+                "estimated_monetary_impact": "$300 - $1,000/year"
+            },
+            "Housing - Renters": {
+                "impact_score": -3,
+                "justification": "The bill's restrictions on landlords could result in rent increases and reduced availability of affordable housing options, creating a noticeable financial burden for renters costing $1,000 to $3,000 per year.",
+                "estimated_monetary_impact": "$1,000 - $3,000/year"
+            },
+            "Housing - Homeless": {
+                "impact_score": -4,
+                "justification": "By reducing access to rental assistance and other support programs, the bill could have a severe impact on homeless individuals, potentially costing them $5,000 to $10,000 per year in lost benefits and housing aid.",
+                "estimated_monetary_impact": "$5,000 - $10,000/year"
+            },
+            "Criminal Justice & Incarceration - Formerly Incarcerated": {
+                "impact_score": -3,
+                "justification": "The bill's restrictions on landlords and reduction in public housing access could limit opportunities for formerly incarcerated individuals, creating a noticeable financial burden of $1,000 to $3,000 per year.",
+                "estimated_monetary_impact": "$1,000 - $3,000/year"
+            }
+        }
+    },
+    "118_hr_9904": {
+        "title": "Preventing SBA Assistance from Going to China Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "15 U.S.C. 632",
+                "similarity_score": 1.0,
+                "match_type": "mentioned_in_bill_mapping",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "The proposed bill would prohibit small business concerns from being headquartered in the People's Republic of China or having more than 25% of their voting stock owned by affiliates that are citizens of the People's Republic of China.",
+                        "The Administrator of the Small Business Administration would be required to amend regulations and guidance to carry out this prohibition."
+                    ],
+                    "legal_impact": "This proposed change would significantly restrict access to Small Business Administration (SBA) assistance and programs for businesses with ties to China. It could have major implications for small businesses that currently receive or are eligible for SBA support.",
+                    "relevance_score": 8,
+                    "relevance_explanation": "This proposed change to the Small Business Act appears to be a direct response to concerns about the potential influence of the Chinese government on small businesses in the United States. Given the current geopolitical tensions between the US and China, this bill is likely to be highly relevant and impactful.",
+                    "before_and_after": {
+                        "before": "The original Section 3(a) of the Small Business Act (15 U.S.C. 632(a)) did not contain any provisions related to prohibiting assistance to businesses affiliated with China.",
+                        "after": "The proposed amendment to Section 3(a) would add a new provision (paragraph 10) that would prohibit small business concerns from being headquartered in China or having more than 25% of their voting stock owned by Chinese citizens or affiliates."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Immigration & Citizenship - Legal Permanent Residents (Green Card Holders)": {
+                "impact_score": -3,
+                "justification": "The bill reduces access to certain government services and financial aid for permanent residents, which could limit their financial security.",
+                "estimated_monetary_impact": "$1,000 - $3,000/year"
+            },
+            "Immigration & Citizenship - Undocumented Individuals": {
+                "impact_score": -5,
+                "justification": "The bill actively imposes financial harm and criminalization on undocumented individuals by excluding them from SBA assistance and other key programs.",
+                "estimated_monetary_impact": "Over $10,000/year"
+            },
+            "Employment - Self-Employed": {
+                "impact_score": -3,
+                "justification": "The bill reduces access to SBA assistance for self-employed individuals, which could result in a noticeable financial burden.",
+                "estimated_monetary_impact": "$1,000 - $3,000/year"
+            },
+            "Race - Asian": {
+                "impact_score": -5,
+                "justification": "The bill actively excludes Asian-owned businesses from SBA assistance, which could impose severe financial harm.",
+                "estimated_monetary_impact": "Over $10,000/year"
+            },
+            "Race - Native Hawaiian or Other Pacific Islander": {
+                "impact_score": -5,
+                "justification": "The bill actively excludes Native Hawaiian and Pacific Islander-owned businesses from SBA assistance, which could impose severe financial harm.",
+                "estimated_monetary_impact": "Over $10,000/year"
+            }
+        }
+    },
+    "118_hr_9956": {
+        "title": "Bill Pascrell Ending Tax Giveaway Act",
+        "became_law": false,
+        "legal_modifications": [
+            {
+                "us_code_section": "Title 1, Section 1 - HAND ENROLLMENT AUTHORIZED FOR GENERAL APPROPRIATIONS BILLS",
+                "similarity_score": 0.5828517079353333,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "error": "Failed to parse TextBlock",
+                    "raw_text": "TextBlock(citations=None, text='{\\n    \"change_type\": \"Major\",\\n    \"summary_of_changes\": [\\n        \"Modifies the tax treatment of income and gains from investment services partnership interests held by partners who provide investment management services to the partnership.\",\\n        \"Imposes a 40% penalty on certain underpayments related to the avoidance of the new rules.\",\\n        \"Excludes income from certain investment services partnership interests from qualifying income for publicly traded partnerships under section 7704.\",\\n        \"Includes investment services partnership income or loss in the calculation of net earnings from self-employment.\"\\n    ],\\n    \"legal_impact\": \"The proposed bill would substantially change the tax treatment of income and gains from investment services partnership interests, with the goal of preventing partners who provide investment management services from obtaining preferential tax treatment on their compensation. This could have a significant impact on the investment management industry and the tax liabilities of affected partners.\",\\n    \"relevance_score\": 8,\\n    \"relevance_explanation\": \"The proposed changes would have a major impact on the taxation of investment management services, which is a significant part of the financial industry. The new rules could affect the business models and tax planning of many investment management firms and their partners.\",\\n    \"before_and_after\": {\\n        \"before\": \"The original U.S. Code section did not address the tax treatment of income and gains from investment services partnership interests.\",\\n        \"after\": \"The proposed bill would add a new section (section 710) to the Internal Revenue Code that would:\\n- Treat certain net capital gain and net capital loss from an investment services partnership interest as ordinary income and loss, respectively.\\n- Treat gain on the disposition of an investment services partnership interest as ordinary income.\\n- Provide an exception for certain qualified capital interests in the partnership.\\n- Impose a 40% penalty on certain underpayments related to the avoidance of the new rules.\\n- Exclude income from certain investment services partnership interests from qualifying income for publicly traded partnerships under section 7704.\\n- Include investment services partnership income or loss in the calculation of net earnings from self-employment.\"\\n    }\\n}', type='text')"
+                }
+            },
+            {
+                "us_code_section": "Title 44, Section 1709 - APPLICATION WITH INTERNAL REVENUE LAWS",
+                "similarity_score": 0.5565620064735413,
+                "match_type": "faiss_semantic_match",
+                "modification_summary": {
+                    "change_type": "Major",
+                    "summary_of_changes": [
+                        "The bill modifies the treatment of 'investment services partnership interests' by specifying that the net capital gain and net capital loss with respect to such interests shall be treated as ordinary income and ordinary loss, respectively.",
+                        "Gains on the disposition of an investment services partnership interest shall be treated as ordinary income, and losses shall be treated as ordinary loss to the extent of prior income recharacterized as ordinary.",
+                        "The bill also creates special rules for determining whether a partnership interest constitutes an 'investment services partnership interest', including a look-through rule for certain wholly owned entities.",
+                        "The bill provides an exception for certain 'qualified capital interests' held by the partner in the partnership.",
+                        "The bill imposes a 40% penalty on certain underpayments due to the avoidance of the provisions in this bill.",
+                        "The bill also modifies the treatment of investment services partnership income or loss for purposes of self-employment tax."
+                    ],
+                    "legal_impact": "This bill, if enacted, would significantly change the tax treatment of income and gains associated with 'investment services partnership interests'. It could have a major impact on the taxation of income earned by investment managers and others providing services to investment partnerships.",
+                    "relevance_score": 9,
+                    "relevance_explanation": "This bill proposes substantial changes to the taxation of income earned through investment partnerships, which is a significant and heavily debated area of tax policy. The changes could have far-reaching implications for the investment management industry and those providing services to investment partnerships.",
+                    "before_and_after": {
+                        "before": "The original U.S. Code section involved the administration of the internal revenue laws and did not address the specific tax treatment of income earned through investment services partnerships.",
+                        "after": "If enacted, this bill would add a new section 710 to the Internal Revenue Code to provide special rules for the taxation of 'investment services partnership interests'. This would significantly alter the tax treatment of income and gains associated with such interests, potentially increasing the tax burden on investment managers and others providing services to investment partnerships."
+                    }
+                }
+            }
+        ],
+        "matched_demographics": {
+            "Income - Low-Income": {
+                "impact_score": 4,
+                "justification": "The bill creates meaningful economic advantages for low-income individuals through expanded eligibility for public benefits and forgiveness of certain types of debt, potentially providing a strong financial gain in the range of $3,000 to $10,000 per year."
+            },
+            "Social Security & Retirement - Retirees": {
+                "impact_score": 3,
+                "justification": "The bill provides a noticeable financial benefit to retirees through a moderate boost in take-home pay or savings, such as reduced payroll taxes or expanded retirement contributions, potentially worth around $1,000 to $3,000 per year."
+            },
+            "Health - Uninsured": {
+                "impact_score": 4,
+                "justification": "The bill represents a strong positive change for the uninsured, with significant expansions to Medicaid and subsidized healthcare coverage that could save $5,000 to $10,000 per year in healthcare costs."
+            },
+            "Income - Middle-Class": {
+                "impact_score": 2,
+                "justification": "The bill provides mild financial improvements to middle-class individuals, such as small tax credits or cost-of-living adjustments to fixed benefits, valued around $300 to $1,000 per year."
+            },
+            "Education - Student Loan Borrowers": {
+                "impact_score": 4,
+                "justification": "The bill creates meaningful economic advantages for student loan borrowers through expanded eligibility for debt forgiveness, potentially providing a strong financial gain in the range of $3,000 to $10,000 per year."
+            }
+        }
+    }
+}
