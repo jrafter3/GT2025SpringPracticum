@@ -1,0 +1,191 @@
+[
+  {
+    "bill_key": "117_hr_1711",
+    "predicted_groups": 4,
+    "mae": 1.0,
+    "hit@0": 0.5,
+    "hit@1": 0.5,
+    "quadratic_kappa": 0.4285714285714286,
+    "df_kappa": 0.9
+  },
+  {
+    "bill_key": "118_hr_10001",
+    "predicted_groups": 5,
+    "mae": 2.0,
+    "hit@0": 0.0,
+    "hit@1": 0.4,
+    "quadratic_kappa": -0.048387096774193505,
+    "df_kappa": 0.74
+  },
+  {
+    "bill_key": "118_hr_1046",
+    "predicted_groups": 5,
+    "mae": 0.6,
+    "hit@0": 0.6,
+    "hit@1": 0.8,
+    "quadratic_kappa": 0.0,
+    "df_kappa": 0.95
+  },
+  {
+    "bill_key": "118_hr_1606",
+    "predicted_groups": 5,
+    "mae": 1.2,
+    "hit@0": 0.0,
+    "hit@1": 0.8,
+    "quadratic_kappa": 0.2857142857142858,
+    "df_kappa": 0.92
+  },
+  {
+    "bill_key": "118_hr_1661",
+    "predicted_groups": 4,
+    "mae": 1.0,
+    "hit@0": 0.5,
+    "hit@1": 0.75,
+    "quadratic_kappa": -0.25,
+    "df_kappa": 0.875
+  },
+  {
+    "bill_key": "118_hr_1783",
+    "predicted_groups": 5,
+    "mae": 1.8,
+    "hit@0": 0.0,
+    "hit@1": 0.4,
+    "quadratic_kappa": 0.11214953271028028,
+    "df_kappa": 0.81
+  },
+  {
+    "bill_key": "118_hr_2676",
+    "predicted_groups": 5,
+    "mae": 1.8,
+    "hit@0": 0.0,
+    "hit@1": 0.4,
+    "quadratic_kappa": 0.33566433566433573,
+    "df_kappa": 0.8099999999999999
+  },
+  {
+    "bill_key": "118_hr_2727",
+    "predicted_groups": 5,
+    "mae": 1.6,
+    "hit@0": 0.2,
+    "hit@1": 0.2,
+    "quadratic_kappa": 0.2857142857142857,
+    "df_kappa": 0.84
+  },
+  {
+    "bill_key": "118_hr_8194",
+    "predicted_groups": 5,
+    "mae": 0.8,
+    "hit@0": 0.4,
+    "hit@1": 0.8,
+    "quadratic_kappa": 0.0,
+    "df_kappa": 0.94
+  },
+  {
+    "bill_key": "119_hr_1618",
+    "predicted_groups": 5,
+    "mae": 0.8,
+    "hit@0": 0.4,
+    "hit@1": 0.8,
+    "quadratic_kappa": 0.6153846153846154,
+    "df_kappa": 0.94
+  },
+  {
+    "bill_key": "118_hr_9881",
+    "predicted_groups": 5,
+    "mae": 1.4,
+    "hit@0": 0.2,
+    "hit@1": 0.4,
+    "quadratic_kappa": 0.3157894736842105,
+    "df_kappa": 0.87
+  },
+  {
+    "bill_key": "118_hr_9890",
+    "predicted_groups": 5,
+    "mae": 0.6,
+    "hit@0": 0.4,
+    "hit@1": 1.0,
+    "quadratic_kappa": 0.34782608695652173,
+    "df_kappa": 0.97
+  },
+  {
+    "bill_key": "118_hr_9904",
+    "predicted_groups": 5,
+    "mae": 3.0,
+    "hit@0": 0.0,
+    "hit@1": 0.4,
+    "quadratic_kappa": -0.05536332179930792,
+    "df_kappa": 0.39
+  },
+  {
+    "bill_key": "118_hr_9930",
+    "predicted_groups": 5,
+    "mae": 1.2,
+    "hit@0": 0.4,
+    "hit@1": 0.8,
+    "quadratic_kappa": 0.4,
+    "df_kappa": 0.82
+  },
+  {
+    "bill_key": "118_hr_9935",
+    "predicted_groups": 5,
+    "mae": 1.6,
+    "hit@0": 0.0,
+    "hit@1": 0.4,
+    "quadratic_kappa": 0.0277777777777779,
+    "df_kappa": 0.86
+  },
+  {
+    "bill_key": "118_hr_9937",
+    "predicted_groups": 5,
+    "mae": 3.6,
+    "hit@0": 0.0,
+    "hit@1": 0.0,
+    "quadratic_kappa": 0.02857142857142858,
+    "df_kappa": 0.31999999999999995
+  },
+  {
+    "bill_key": "118_hr_9946",
+    "predicted_groups": 5,
+    "mae": 2.6,
+    "hit@0": 0.0,
+    "hit@1": 0.2,
+    "quadratic_kappa": 0.10480349344978157,
+    "df_kappa": 0.5900000000000001
+  },
+  {
+    "bill_key": "118_hr_9956",
+    "predicted_groups": 5,
+    "mae": 4.2,
+    "hit@0": 0.0,
+    "hit@1": 0.0,
+    "quadratic_kappa": 0.10748560460652601,
+    "df_kappa": 0.07000000000000017
+  },
+  {
+    "bill_key": "118_hr_9958",
+    "predicted_groups": 5,
+    "mae": 1.4,
+    "hit@0": 0.2,
+    "hit@1": 0.6,
+    "quadratic_kappa": -0.15384615384615374,
+    "df_kappa": 0.85
+  },
+  {
+    "bill_key": "118_hr_9993",
+    "predicted_groups": 5,
+    "mae": 3.4,
+    "hit@0": 0.0,
+    "hit@1": 0.0,
+    "quadratic_kappa": 0.00651465798045614,
+    "df_kappa": 0.39
+  },
+  {
+    "bill_key": "AVERAGE_METRICS",
+    "predicted_groups": 98,
+    "df_kappa": 0.74275,
+    "quadratic_kappa": 0.14471852171831395,
+    "mae": 1.78,
+    "hit@0": 0.19,
+    "hit@1": 0.48250000000000004
+  }
+]
